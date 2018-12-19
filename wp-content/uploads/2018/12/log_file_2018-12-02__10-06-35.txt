@@ -1,0 +1,30 @@
+
+---Upload files---
+Content file was not uploaded. Error: Tập tin rỗng, hãy thử tải tập tin lên lại lần nữa. Lỗi này có thể do chức năng tải tập tin lên không được bật trong php.ini hoặc post_max_size được đặt thấp hơn upload_max_filesize trong tập tin php.ini.
+
+---Upload files---
+Widget file was not uploaded. Error: Tập tin rỗng, hãy thử tải tập tin lên lại lần nữa. Lỗi này có thể do chức năng tải tập tin lên không được bật trong php.ini hoặc post_max_size được đặt thấp hơn upload_max_filesize trong tập tin php.ini.
+
+---Upload files---
+Customizer file was not uploaded. Error: Tập tin rỗng, hãy thử tải tập tin lên lại lần nữa. Lỗi này có thể do chức năng tải tập tin lên không được bật trong php.ini hoặc post_max_size được đặt thấp hơn upload_max_filesize trong tập tin php.ini.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://localhost/shop
+Data file = not defined!
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+1 -> H:\xampp\htdocs\shop/wp-content/uploads/2018/12/redux-options-1.json 
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing Redux settings---
+The Redux option name: 1, was not found in this WP site, so it was not imported!
+
+---pt-ocdi/after_import---
+

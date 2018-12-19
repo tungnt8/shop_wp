@@ -1,0 +1,12 @@
+
+---Upload files---
+Content file was not uploaded. Error: Tập tin rỗng, hãy thử tải tập tin lên lại lần nữa. Lỗi này có thể do chức năng tải tập tin lên không được bật trong php.ini hoặc post_max_size được đặt thấp hơn upload_max_filesize trong tập tin php.ini.
+
+---Upload files---
+Widget file was not uploaded. Error: Tập tin rỗng, hãy thử tải tập tin lên lại lần nữa. Lỗi này có thể do chức năng tải tập tin lên không được bật trong php.ini hoặc post_max_size được đặt thấp hơn upload_max_filesize trong tập tin php.ini.
+
+---Upload files---
+Customizer file was not uploaded. Error: Tập tin rỗng, hãy thử tải tập tin lên lại lần nữa. Lỗi này có thể do chức năng tải tập tin lên không được bật trong php.ini hoặc post_max_size được đặt thấp hơn upload_max_filesize trong tập tin php.ini.
+
+---Upload files---
+Missing Redux option name! Please also enter the Redux option name!
